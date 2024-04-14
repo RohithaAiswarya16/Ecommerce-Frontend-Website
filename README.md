@@ -13,10 +13,6 @@ Check out the live demo [here](https://rohithaaiswarya16.github.io/Ecommerce-Fro
 - **Responsive Design**: Enjoy a seamless browsing experience across devices of all sizes.
 - **Modern UI**: Sleek and intuitive user interface for effortless navigation.
 - **Product Showcase**: Browse through a diverse collection of attire elegantly displayed.
-- **Easy Checkout**: Streamlined checkout process for hassle-free shopping.
-- **Search Functionality**: Quickly find your desired attire with our search feature.
-- **Filter Options**: Narrow down your search results based on categories, prices, and more.
-- **Interactive Cart**: Add items to your cart and manage your selections effortlessly.
 
 ## Technologies Used
 
