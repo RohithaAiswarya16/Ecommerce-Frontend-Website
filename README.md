@@ -2,7 +2,7 @@
 
 Welcome to Attire Avenue, a responsive ecommerce frontend website showcasing a variety of fashionable attire for all occasions.
 
-![Attire Avenue Preview](./assets/images/logo.png)
+![Attire Avenue Preview](./assets/images/img1.png)
 
 ## Live Demo
 
